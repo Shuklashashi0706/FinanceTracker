@@ -49,12 +49,6 @@ About
 ![about](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/98cd71c1-a8fa-4d5a-9432-c3db93c21609)
 
 
-## Demo Video
-
-
-
-https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/cb742a82-bf50-4a4e-821f-5f856874d61d
-
 
 
   
