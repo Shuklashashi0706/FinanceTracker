@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Finance Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This finance tracker is a web application built with the React framework, designed to help users manage their income and expenses effectively. It provides a user-friendly interface that allows users to add, edit, and delete income and expense transactions, while also displaying the current balance.
 
-## Available Scripts
+## Key Features:
+-Making users learn about finance:Users can easily learn about various finance concepts from our websites.Learning about finance creates more chance for users to use our website.
+- Add Income and Expense Transactions: Users can easily add new income and expense entries, specifying the amount, category, and date for each transaction.
+- Edit and Delete Transactions: Users have the ability to modify or delete existing transactions, enabling them to keep their financial records up to date.
+-Making users learn about finance:Users can easily learn about finance concepts from website only and dont have to go anywhere.
+Knowing how to manage money creates more chance for users to use our website.
+- Current Balance Display: The finance tracker prominently displays the current balance, providing users with an overview of their financial situation at a glance.
 
-In the project directory, you can run:
 
-### `npm start`
+## Why use Finance Tracker?
+- Efficient Management: With the ability to track income and expenses in one central location, users can better manage their finances, make informed decisions, and maintain a clear overview of their financial situation.
+- User-Friendly Interface: The intuitive and visually appealing interface makes it easy for users to navigate, add transactions, and monitor their balance effortlessly.
+- Customizable Categories: Users can customize income and expense categories, tailoring the tracker to their specific financial needs and preferences.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Technology Stack:
+- React: A popular JavaScript library for building user interfaces, providing a robust and efficient foundation for the finance tracker.
+- HTML/CSS: The tracker utilizes HTML for structuring the content and CSS for styling and enhancing the overall visual experience.
+- JavaScript: The tracker leverages the power of JavaScript to handle logic and interactivity, ensuring a seamless user experience.
+- Tailwind CSS:Tailwind CSS is a highly customizable CSS framework that allows developers to rapidly build user interfaces with minimal effort.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## How we use Github Copilot?
+Used Copilot to generate code for common tasks, such as parsing data or formatting text.
+Used Copilot to help me debug my code.
+-It was very helpful in my entire coding but also at the same time quite hard to handle as i have to look carefully for the error it produced.
 
-### `npm test`
+## Architecture Diagram:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+![Logo](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/d71e6266-8c1a-4292-9eaa-fa33e3898ee8)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
+Home
+![Home](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/947e34c7-4b9e-4c2d-86ae-6b5ae809a9a0)
+Courses
+![Courses](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/169b6f86-fb05-48e8-b87a-16937def89ca)
+Login
+![login](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/6822cdb3-2fda-464d-9193-81b89732cdaf)
+Signup
+![signup](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/ba2481ac-1f5b-41f6-9ffb-f53b27596d71)
+Wallet
+![wallet](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/422597eb-ca67-4438-a8ba-e4b703e5d0fb)
+Profile
+![profile](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/c994b9ff-82bb-4085-a41f-426b999e84ce)
+About
+![about](https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/98cd71c1-a8fa-4d5a-9432-c3db93c21609)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Demo Video
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+https://github.com/Fastest-Coder-First/Team-Frost-Finance-Tracker/assets/107978867/cb742a82-bf50-4a4e-821f-5f856874d61d
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+  
+Give your financial management a boost with the Finance Tracker. Start taking control of your income, expenses, and balance today!
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Authors
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [@Shuklashashi0706](https://www.github.com/Shuklashashi0706)
